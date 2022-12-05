@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@200&family=Montserrat:wght@300;500&family=Roboto+Condensed:ital@1&display=swap');
+
+*{
+
+font-family: 'IBM Plex Sans Thai Looped', sans-serif!important;
+font-family: 'Montserrat', sans-serif!important;
+font-family: 'Roboto Condensed', sans-serif!important;
+font-size: medium;
+}
+
+a{
+    padding: 5px;
+    color: white !important;
+}

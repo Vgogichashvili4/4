@@ -1,0 +1,90 @@
+{
+  "company": [
+    {
+      "id": 3,
+      "gmail": "uhj12313",
+      "personalNumber": "gjh",
+      "name": "g",
+      "lastName": "jh",
+      "dateOfBirth": "gkjdfg",
+      "category": "Medicine",
+      "isactive": false
+    },
+    {
+      "gmail": "uhj",
+      "personalNumber": "gjh",
+      "name": "g",
+      "lastName": "jh",
+      "dateOfBirth": "gkjdfg",
+      "category": "Medicine",
+      "isactive": true,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "gmail": "kvaratskhelia@gmail.com",
+      "personalNumber": "7897",
+      "name": "98",
+      "lastName": "79",
+      "dateOfBirth": "345435",
+      "category": "football",
+      "isactive": true
+    },
+    {
+      "gmail": "uhj",
+      "personalNumber": "gjh",
+      "name": "g",
+      "lastName": "jh",
+      "dateOfBirth": "gkjdfg",
+      "category": "Medicine",
+      "isactive": true,
+      "id": 3
+    },
+    {
+      "gmail": "nikaFt@gmail.com",
+      "personalNumber": "7897",
+      "name": "98",
+      "lastName": "79",
+      "dateOfBirth": "345435",
+      "category": "football",
+      "isactive": true,
+      "id": 4
+    },
+    {
+      "gmail": "jhkj",
+      "personalNumber": "h",
+      "name": "jkh",
+      "lastName": "jk",
+      "dateOfBirth": "234",
+      "category": "football",
+      "isactive": true,
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "football"
+    },
+    {
+      "id": 3,
+      "categoryName": "Information Technology"
+    },
+    {
+      "categoryName": "architecture",
+      "id": 4
+    },
+    {
+      "categoryName": "Medicine",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "categoryName": "F1"
+    },
+    {
+      "id": 7,
+      "categoryName": "Hockey"
+    }
+  ]
+}

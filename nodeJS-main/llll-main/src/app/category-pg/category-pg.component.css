@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@200&family=Montserrat:wght@300;500&family=Roboto+Condensed:ital@1&display=swap');
+
+*{
+font-family: 'poppins', sans-serif!important;
+}
+
+table{
+    width: 1000px! important; 
+}
+
+td, th {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+.mat-sort-header-container {
+    justify-content: center !important;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.action-buttons a{
+    margin: 0 4%;
+    width: 20%;
+}
